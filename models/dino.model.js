@@ -1,4 +1,3 @@
-import { Db } from 'mongodb';
 import mongoose from 'mongoose';
 
 const dinoSchema = new mongoose.Schema({
